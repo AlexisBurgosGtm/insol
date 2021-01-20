@@ -15,6 +15,10 @@ body {
   color: #555;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 body,
 p {
   font-family: "Open Sans", sans-serif;
